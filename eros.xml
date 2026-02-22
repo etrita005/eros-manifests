@@ -6,5 +6,5 @@
   <default remote="origin" revision="main" sync-j="4" />
 
   <!-- EROS specific packages -->
-  <project path="eros/eros_documents" name="etrita005/eros-documents" remote="origin" revision="wuyi" />
+  <project path="documents" name="etrita005/eros-documents" remote="origin" revision="wuyi" />
 </manifest>
