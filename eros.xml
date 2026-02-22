@@ -7,5 +7,5 @@
 
   <!-- EROS specific packages -->
   <project path="documents" name="etrita005/eros-documents" remote="origin" revision="wuyi" />
-  <project path="cytoskeleton" name="etrita005/eros-cytoskeleton" remote="origin" revision="wuyi" />
+  <project path="cytoskeleton/cytoskeleton-cpp" name="etrita005/eros-cytoskeleton-cpp" remote="origin" revision="wuyi" />
 </manifest>
