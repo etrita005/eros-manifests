@@ -9,5 +9,6 @@
   <project path="documents" name="etrita005/eros-documents" remote="origin" revision="wuyi" />
   <project path="forge" name="etrita005/eros-forge" remote="origin" revision="wuyi" />
   <project path="cytoskeleton/cytoskeleton-cpp" name="etrita005/eros-cytoskeleton-cpp" remote="origin" revision="wuyi" />
+  <project path="hal/core" name="etrita005/eros-hal-core" remote="origin" revision="wuyi" />
   <project path="playground" name="etrita005/eros-playground" remote="origin" revision="wuyi" />
 </manifest>
