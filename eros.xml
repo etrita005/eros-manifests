@@ -12,5 +12,6 @@
   <project path="kinesin/kinesin-cpp" name="etrita005/eros-kinesin-cpp" remote="origin" revision="wuyi" />
   <project path="hal/core" name="etrita005/eros-hal-core" remote="origin" revision="wuyi" />
   <project path="thirdparty/eclipse-ecal-vendor" name="etrita005/eros-thirdparty-eclipse-ecal-vendor" remote="origin" revision="wuyi" />
+  <project path="thirdparty/sdbus-cpp-vendor" name="etrita005/eros-thirdparty-sdbus-cpp-vendor" remote="origin" revision="wuyi" />
   <project path="playground" name="etrita005/eros-playground" remote="origin" revision="wuyi" />
 </manifest>
