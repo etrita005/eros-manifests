@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="ssh://git@github.com/" />
-  <remote name="upstream" fetch="ssh://git@github.com/" />
+  <remote name="origin" fetch="https://github.com/" />
+  <remote name="upstream" fetch="https://github.com/" />
 
   <default remote="origin" revision="main" sync-j="4" />
 
