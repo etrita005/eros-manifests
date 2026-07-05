@@ -10,6 +10,7 @@
   <project path="forge" name="etrita005/eros-forge" remote="origin" revision="wuyi" />
   <project path="cytoskeleton/cytoskeleton-cpp" name="etrita005/eros-cytoskeleton-cpp" remote="origin" revision="wuyi" />
   <project path="kinesin/kinesin-cpp" name="etrita005/eros-kinesin-cpp" remote="origin" revision="wuyi" />
+  <project path="synapse/synapse-cpp" name="etrita005/eros-synapse-cpp" remote="origin" revision="wuyi" />
   <project path="hal/core" name="etrita005/eros-hal-core" remote="origin" revision="wuyi" />
   <project path="hal/bus-gateway/uavcan-can-bus-gateway" name="etrita005/eros-hal-uavcan-can-bus-gateway" remote="origin" revision="wuyi" />
   <project path="thirdparty/eclipse-ecal-vendor" name="etrita005/eros-thirdparty-eclipse-ecal-vendor" remote="origin" revision="wuyi" />
