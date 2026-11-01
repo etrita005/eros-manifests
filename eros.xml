@@ -6,6 +6,7 @@
   <default remote="origin" revision="main" sync-j="4" />
 
   <!-- EROS specific packages -->
+  <project path="agents" name="etrita005/eros-agents" remote="origin" revision="lushan" />
   <project path="documents" name="etrita005/eros-documents" remote="origin" revision="lushan" />
   <project path="forge" name="etrita005/eros-forge" remote="origin" revision="lushan" />
 </manifest>
