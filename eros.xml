@@ -9,4 +9,5 @@
   <project path="agents" name="etrita005/eros-agents" remote="origin" revision="lushan" />
   <project path="documents" name="etrita005/eros-documents" remote="origin" revision="lushan" />
   <project path="forge" name="etrita005/eros-forge" remote="origin" revision="lushan" />
+  <project path="cytoskeleton/cytoskeleton-cpp" name="etrita005/eros-cytoskeleton-cpp" remote="origin" revision="lushan" />
 </manifest>
